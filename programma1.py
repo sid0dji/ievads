@@ -3,3 +3,4 @@ print("Eliass")
 skaitlis=5
 vardi="Skola"
 print(skaitlis)
+print(vardi)
